@@ -1,0 +1,1 @@
+{"name":"Local: Mcm_concept","url":"d:\\Codeforces\\Mcm_concept.cpp","tests":[{"id":1689823836242,"input":"3\n40 60 20","output":"2400"},{"id":1689827371505,"input":"2\n40 60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces\\Mcm_concept.cpp","group":"local","local":true}

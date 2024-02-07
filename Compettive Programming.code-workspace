@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "Codeforces",
+			"path": "."
+		},
+		{
+			"name": "CSES",
+			"path": "../CSES"
+		},
+		{
+			"name": "Codechef",
+			"path": "../Codechef"
+		},
+		{
+			"name": "Python",
+			"path": "../Python"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../Mygithub"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.html": "html",
+			"iostream": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Mygithub"
+	}
+}

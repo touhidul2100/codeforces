@@ -1,0 +1,10 @@
+ans 1
+ans 1
+len 1
+ans 1
+ans 1
+ans 1
+ans 1
+len 3
+ans 3
+ans 3
